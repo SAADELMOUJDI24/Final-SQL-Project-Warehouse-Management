@@ -20,3 +20,5 @@ Query per:
 1)Aggiornare le scorte dopo una vendita
 2)Verificare le unità di un prodotto in magazzino
 3)Monitorare le soglie di restock
+
+
