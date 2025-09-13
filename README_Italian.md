@@ -22,7 +22,7 @@ Il sistema doveva essere in grado di:
 
 4)diversi metodi per creare le query.
 
-Query per:
+# Query per:
 
 1)Aggiornare le scorte dopo una vendita.
 
