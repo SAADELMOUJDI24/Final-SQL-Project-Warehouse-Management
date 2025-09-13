@@ -15,11 +15,16 @@ The system needed to:
 # Project Contents:
 
 1-Entity-Relationship (ER) diagram of the database.
+
 2-SQL scripts for table creation (DDL).
+
 3-Sample data population for testing.
+
 4-Various query methods including.
 
 # Queries for:
 1-Updating stock levels after a sale.
+
 2-Checking the available units of a product in the warehouse.
+
 3-Monitoring restock thresholds to manage inventory.
