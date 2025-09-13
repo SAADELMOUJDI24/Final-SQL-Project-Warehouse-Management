@@ -5,6 +5,7 @@ Durante l’ultima settimana del corso di Data Analyst, abbiamo lavorato in grup
 
 Sviluppare un database relazionale in grado di gestire il flusso degli ordini tra magazzini e punti vendita, tenendo conto dei livelli di restock per ogni categoria di prodotto. 
 Il sistema doveva essere in grado di:
+
 1-Aggiornare le quantità di prodotto nei magazzini in tempo reale, a seguito delle vendite nei negozi.
 
 2-Monitorare le soglie di riassortimento per avviare automaticamente nuovi ordini.
@@ -12,20 +13,20 @@ Il sistema doveva essere in grado di:
 3-Gestire relazioni complesse come quella tra magazzini che servono più punti vendita.
 
 # Cosa include
-1)Schema ER del database
+1)Schema ER del database.
 
-2)Script SQL per la creazione delle tabelle (DDL)
+2)Script SQL per la creazione delle tabelle (DDL).
 
-3)Popolamento del database con dati di esempio
+3)Popolamento del database con dati di esempio.
 
-4) diversi metodi per creare le query
+4) diversi metodi per creare le query.
 
 Query per:
 
-1)Aggiornare le scorte dopo una vendita
+1)Aggiornare le scorte dopo una vendita.
 
-2)Verificare le unità di un prodotto in magazzino
+2)Verificare le unità di un prodotto in magazzino.
 
-3)Monitorare le soglie di restock
+3)Monitorare le soglie di restock.
 
 
